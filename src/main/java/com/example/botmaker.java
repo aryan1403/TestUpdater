@@ -59,11 +59,11 @@ public class botmaker extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "botDesginer_bot";
+        return "Enter your bot username here";
     }
 
     @Override
     public String getBotToken() {
-        return "1730259845:AAGhEWWQdZAX-Ln4jKgdN63XTiok4sM2vis";
+        return "Enter your Bot token here";
     }
 }
